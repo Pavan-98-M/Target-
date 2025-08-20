@@ -2,7 +2,6 @@
 SQL Case Study on E-commerce Data – Analyzed customer behavior, order trends, sales growth, logistics, and payments using advanced SQL (joins, CTEs, window functions).
 # 🛒 Target SQL Case Study – E-Commerce Data Analysis  
 
-# 🛒 Target SQL Case Study – E-Commerce Data Analysis
 
 This project is a **SQL-based case study** analyzing a e-commerce dataset to uncover insights about customer behavior, order patterns, payments, logistics, and overall business growth.
 
